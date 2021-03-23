@@ -1,0 +1,20 @@
+INFORMACION DESPLIEGUE DE BASE DE DATOS
+1. script CREATE USER DB_FABRICA
+Procedimiento PL/SQL terminado correctamente.
+2. Creacion de la tabla y trigger  ivn_referencias
+Procedimiento PL/SQL terminado correctamente.
+3. Creacion de la tabla ivn_tallas
+Procedimiento PL/SQL terminado correctamente.
+4. Creacion de la tabla ivn_colores
+Procedimiento PL/SQL terminado correctamente.
+5. Creacion de la tabla ivn_inventario
+Procedimiento PL/SQL terminado correctamente.
+6. Creacuion de la tabla inv_tipiden
+Procedimiento PL/SQL terminado correctamente.
+7. Creacuion de la tabla inv_vendedores
+Procedimiento PL/SQL terminado correctamente.
+Insert inicial del inventario
+Procedimiento PL/SQL terminado correctamente.
+script secuences inicial del inventario
+Procedimiento PL/SQL terminado correctamente.
+EJECUCION DESPLIEGUE DE BASE DE DATOS TERMINADA
